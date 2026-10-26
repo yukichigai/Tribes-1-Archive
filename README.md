@@ -15,13 +15,13 @@ These are mods which I worked on but never publicly released. They may be buggy 
  
  * Shifter_advanced
  * Shifter_v1GY
- * Shifter_v2
 
 ## Other hard-to-find or unreleased mods
 
 These are some mods that I can't seem to locate anywhere on the web, but which I happen to have for some reason. 
 
  * ShifterX
+ * Shifter_v2
  * USWX
  
 ## Server-specific mod variants
