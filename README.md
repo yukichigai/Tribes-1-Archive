@@ -28,5 +28,5 @@ These are some mods that I can't seem to locate anywhere on the web, but which I
 
 Finally, I have two server-specific mod variants that were never released publicly.
 
- * Shifter_vSiyx (Based on Shifter v1 2000-07-30)
- * Shifter_FAMM (Shifter_v1Y with standard Shifter_v1 visuals) 
+ * Shifter_vSiyx - From Siyx's Shifter Server, based on Shifter v1 2000-07-30
+ * Shifter_FAMM - From Fallen Angels/Multi Mayhem. Shifter_v1Y with standard Shifter_v1 visuals
