@@ -1,7 +1,8 @@
 # Y|yukichigai's Tribes 1 File Archive
 This is an archive of some of the various files (mostly mods) that I have created and collected over the years of playing and modding _Starsiege: Tribes_. 
+## Mods
 
-## My previously released mods
+### My previously released mods
 
 These mods were ones I previously released publicly, but which have been made unavailable or hard to find due to various sites shutting down in the last 20 years.
 
@@ -9,14 +10,14 @@ These mods were ones I previously released publicly, but which have been made un
  * Shifter_v1Y
  * Shifter_v1YXtreme
  
-## My unreleased mods
+### My unreleased mods
 
 These are mods which I worked on but never publicly released. They may be buggy and/or incomplete, and are almost certainly out of date.
  
  * Shifter_advanced
  * Shifter_v1GY
 
-## Other hard-to-find mods
+### Other hard-to-find mods
 
 These are some mods that I can't seem to locate anywhere on the web, but which I happen to have for some reason. 
 
@@ -24,7 +25,7 @@ These are some mods that I can't seem to locate anywhere on the web, but which I
  * Shifter_v2
  * USWX
  
-## Server-specific mod variants
+### Server-specific mod variants
 
 Finally, I have two server-specific mod variants that were never released publicly.
 
