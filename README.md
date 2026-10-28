@@ -6,7 +6,7 @@ This is an archive of some of the various files (mostly mods) that I have create
 
 These mods were ones I previously released publicly, but which have been made unavailable or hard to find due to various sites shutting down in the last 20 years.
 
- * Shifter_v1Xtreme
+ * Shifter_v1Xtreme (_a.k.a. ShifterXtreme_)
  * Shifter_v1Y
  * Shifter_v1YXtreme
  
