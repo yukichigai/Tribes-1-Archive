@@ -29,7 +29,7 @@ These are some mods that I can't seem to locate anywhere on the web, but which I
 
 Finally, I have two server-specific mod variants that were never released publicly.
 
- * Shifter_vSiyx - From Siyx's Shifter Server, based on Shifter v1 2000-07-30
+ * Shifter_vSiyx - From Siyx's Shifter Server, based on Shifter v1 2000-07-30b. Heavily favors the Engineer armor
  * Shifter_FAMM - From Fallen Angels/Multi Mayhem. Shifter_v1Y with standard Shifter_v1 visuals
 
 ## My map conversions
@@ -46,5 +46,5 @@ I converted three _Capture the Flags_ maps to _Find and Retrieve_ maps.
 
 Additionally, I made two versions of the map _Next Door_ to work without requiring DOX's CTF Map Pack. This is done by replacing the terrain used, and since the replacement terrain does not have gaps in the ground to allow access to the sub-level structures the maps have added teleporters, which require additional included script files to function.
 
-* Next Door2
-* Next Door3
+* Next Door2 - Initial revision using the first usable base game terrain I could find
+* Next Door3 - Final revision using a much more flat terrain
