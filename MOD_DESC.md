@@ -5,7 +5,7 @@ A number of the less popular or unreleased mods I've created do not have much, i
 This was an attempt to bring newer FPS features to Shifter, particularly dual wield weapons, alternate ammo types, and a separate Alternate Fire button. The latter would have required a special keybind in order to work, meaning this version of Shifter would not have been a "Serverside only" mod. Although development did not get very far several weapons were altered to work with alternate fire and dual wield configurations, including the Chaingun, Vulcan, Magnum, and Godhammer.
 
 ## Shifter Renegades
-This is Renegades 4.0 with the Server Mod name overridden to "Shifter_Renegades" and Shifter's Spawn Favorites, Spawn Random, and Save Profile functions added. That is not a simplification of the mod, that is **literally** all the mod is.
+This is Renegades 3.5 with Shifter's Spawn Favorites, Spawn Random, and Save Profile functions added. That is not a simplification of the mod, that is **literally** all the mod is.
 
 This mod was my cheeky attempt to "bridge the gap" between Renegades players and Shifter players. Despite the two mods having a lot in common (since Shifter is based off Renegades) many Shifter players were hesitant to play anything without Spawn Favorites, while many Renegades players disliked the more rapid pace of Shifter's gameplay.
 
