@@ -1,15 +1,15 @@
 # Y|yukichigai's Tribes 1 File Archive
-This is an archive of some of the various files (mostly mods) that I have created and collected over the years of playing and modding _Starsiege: Tribes_. 
+This is an archive of some of the various files (mostly mods) that I have created and collected over the years of playing and modding _Starsiege: Tribes_. Brief descriptions on some of these can be found in [MOD_DESC.md](/MOD_DESC.md).
 ## Mods
 
 ### My previously released mods
 
 These mods were ones I previously released publicly, but which have been made unavailable or hard to find due to various sites shutting down in the last 20 years.
 
- * Shifter_Renegades (_Renegades 4.0 with Shifter's Spawn Saved/Random/Favorites added. No other differences._)
- * Shifter_v1Xtreme (_a.k.a. ShifterXtreme_)
+ * Shifter_Renegades (_Renegades 4.0 with Shifter's Spawn Saved/Random/Favorites added._)
  * Shifter_v1Y
  * Shifter_v1YXtreme
+ * ShifterXtreme (_a.k.a. Shifter_v1Xtreme_)
  
 ### My unreleased mods
 
