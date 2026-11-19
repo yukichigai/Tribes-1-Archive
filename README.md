@@ -15,7 +15,7 @@ These mods were ones I previously released publicly, but which have been made un
 
 These are mods which I worked on but never publicly released. They may be buggy and/or incomplete, and are almost certainly out of date.
  
- * Shifter_advanced
+ * Shifter_Advanced
  * Shifter_v1GY
 
 ### Other hard-to-find mods
